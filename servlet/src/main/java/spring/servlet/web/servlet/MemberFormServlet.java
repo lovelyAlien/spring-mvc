@@ -1,4 +1,4 @@
-package spring.servlet.domain.web.servlet;
+package spring.servlet.web.servlet;
 
 import spring.servlet.domain.member.MemberRepository;
 

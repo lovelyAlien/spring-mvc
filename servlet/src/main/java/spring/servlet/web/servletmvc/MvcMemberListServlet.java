@@ -1,4 +1,4 @@
-package spring.servlet.domain.web.servletmvc;
+package spring.servlet.web.servletmvc;
 
 import spring.servlet.domain.member.Member;
 import spring.servlet.domain.member.MemberRepository;
