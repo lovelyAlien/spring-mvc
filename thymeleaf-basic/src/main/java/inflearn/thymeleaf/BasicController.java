@@ -84,6 +84,7 @@ public class BasicController {
     }
 
 
+
     @Component("helloBean")
     static class HelloBean{
 
